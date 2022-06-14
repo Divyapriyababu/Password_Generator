@@ -1,5 +1,13 @@
-// Assignment code here
+function generatePassword() {
+  var lengthOfPassword = window.prompt("Choose the length of the character: (Must be between 8 and 128) !!!");
 
+  if ((lengthOfPassword >= 8) && (lengthOfPassword <= 128)) {
+    console.log("Good job!! You have selected the right option");
+  } else {
+    window.alert("OOPS!!! choose between 8 and 128");
+  }
+  return "";
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
