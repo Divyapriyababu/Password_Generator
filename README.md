@@ -52,6 +52,12 @@ Deployed URL: https://divyapriyababu.github.io/Password_Generator/
 
 ![](./assets/screenshots/Invalid_Length_Screen.png)
 
-![](./assets/screenshots/Input_CharacterSet_Screen.png)
+![](./assets/screenshots/InputScreen_Lowercase.png)
+
+![](./assets/screenshots/InputScreen_Uppercase.png)
+
+![](./assets/screenshots/InputScreen_Numeric.png)
+
+![](./assets/screenshots/InputScreen_SpecialCharacters.png)
 
 ![](./assets/screenshots/Result_Screen.png)
